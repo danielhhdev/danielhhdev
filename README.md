@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Daniel
 #### I am a backend developer with experience in **Java** and **Spring Boot**, currently expanding my technical skills by learning **Python** to broaden my horizons.
-![I am a backend developer with experience in **Java** and **Spring Boot**, currently expanding my technical skills by learning **Python** to broaden my horizons.]
 
 🚀 **Passionate about programming:** I am always exploring new technologies and looking for innovative ways to take my projects to the next level.  
 
@@ -10,7 +9,14 @@
 
 🎯 **Goal:** To become a leader in **microservices** and contribute to the development of complex systems that make a high impact in the tech world.
 
-Skills: **Languages:** - Java - Python (learning) **Frameworks:** - Spring Boot **Databases:** - PostgreSQL - MongoDB **Messaging Systems:** - Kafka - RabbitMQ **Tools & Technologies:** - Docker - Git - Kibana **Methodologies:** - Scrum - Agile **Concepts:** - Microservices architecture - Concurrency in Java - Distributed Systems
+Skills: 
+      **Languages:** - Java - Python (learning) 
+      **Frameworks:** - Spring Boot
+      **Databases:** - PostgreSQL - MongoDB 
+      **Messaging Systems:** - Kafka - RabbitMQ 
+      **Tools & Technologies:** - Docker - Git - Kibana 
+      **Methodologies:** - Scrum - Agile 
+      **Concepts:** - Microservices architecture - Concurrency in Java - Distributed Systems
 
 - 🔭 I’m currently working on Sopra Steria 
 - 🌱 I’m currently learning Python and Concurrency in Java 
