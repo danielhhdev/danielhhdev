@@ -10,7 +10,7 @@
 🎯 **Goal:** To become a leader in **microservices** and contribute to the development of complex systems that make a high impact in the tech world.
 
 Skills: 
-      **Languages:** - Java - Python (learning) 
+      /n**Languages:** - Java - Python (learning) 
       **Frameworks:** - Spring Boot
       **Databases:** - PostgreSQL - MongoDB 
       **Messaging Systems:** - Kafka - RabbitMQ 
