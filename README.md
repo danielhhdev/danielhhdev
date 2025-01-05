@@ -9,17 +9,23 @@
 
 🎯 **Goal:** To become a leader in **microservices** and contribute to the development of complex systems that make a high impact in the tech world.
 
-Skills: 
-      /n**Languages:** - Java - Python (learning) 
-      **Frameworks:** - Spring Boot
-      **Databases:** - PostgreSQL - MongoDB 
-      **Messaging Systems:** - Kafka - RabbitMQ 
-      **Tools & Technologies:** - Docker - Git - Kibana 
-      **Methodologies:** - Scrum - Agile 
-      **Concepts:** - Microservices architecture - Concurrency in Java - Distributed Systems
+🔭 I’m currently working on **Sopra Steria**
 
-- 🔭 I’m currently working on Sopra Steria 
-- 🌱 I’m currently learning Python and Concurrency in Java 
+🌱 I’m currently learning **Python and Concurrency in Java **
+
+**Skills:** 
+- **Languages:** - Java - Python (learning) 
+- **Frameworks:** - Spring Boot
+- **Databases:** - PostgreSQL - MongoDB 
+- **Messaging Systems:** - Kafka - RabbitMQ 
+- **Tools & Technologies:** - Docker - Git - Kibana 
+- **Methodologies:** - Scrum - Agile 
+- **Concepts:** - Microservices architecture - Concurrency in Java - Distributed Systems
+
+
+
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/danielhernandezhuerta/)  
