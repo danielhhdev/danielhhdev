@@ -4,7 +4,7 @@
 
 I'm passionate about building scalable backend solutions and continuously evolving my skill set to stay at the forefront of technology. My journey has led me from robust Java microservices to exploring the powerful intersection between **Spring Boot** and **Artificial Intelligence**. I thrive on learning and sharing knowledge, with a hands-on approach to real-world challenges.
 
-**Current Focus (2024):**  
+**Current Focus (2025):**  
 - 🔎 **Modern Java & Spring Boot:** Native Images with GraalVM, Virtual Threads (Project Loom), advanced Observability, and robust Testing (Testcontainers, WireMock).
 - 🤖 **Artificial Intelligence Integration:** Connecting APIs with LLMs (OpenAI, Cohere), working with embeddings, prompt engineering, and vector databases (ChromaDB, pgvector).
 - 🏗️ **Microservices & Event-Driven Architecture:** Building resilient, scalable systems with Spring Cloud, Kafka, and modern cloud patterns.
@@ -35,7 +35,7 @@ I'm following a structured roadmap to become an **AI-Ready Spring Developer** an
   - Vector-based search with AI  
   - Event-driven microservices
 
-**Goals for 2024**
+**Goals for 2025**
 - ✅ Deliver a production-ready MVP with Spring Boot + AI
 - ✅ Publish hands-on guides and examples for the community
 - ✅ Grow as a technical leader in scalable backend & AI-powered solutions
