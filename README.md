@@ -43,7 +43,7 @@ I'm following a structured roadmap to become an **AI-Ready Spring Developer** an
 ---
 
 📫 **Let’s connect:**  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/danielhernandezhuerta/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielhernandezhuerta/)
 
 ---
 
